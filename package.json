@@ -1,10 +1,14 @@
 {
-  "name": "cropster-prettier-config",
+  "name": "@vollersgroup/vollers-prettier-config",
   "version": "1.0.0",
+  "repository": "https://github.com/vollersgroup/vollers-prettier-config",
   "private": true,
   "description": "Shared prettier config for all apps.",
   "main": "index.json",
   "devDependencies": {
     "prettier": "^2.1.2"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   }
 }
