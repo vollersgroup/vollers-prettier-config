@@ -1,8 +1,8 @@
 {
   "name": "@vollersgroup/vollers-prettier-config",
   "version": "1.0.0",
+  "license": "UNLICENSED",
   "repository": "https://github.com/vollersgroup/vollers-prettier-config",
-  "private": true,
   "description": "Shared prettier config for all apps.",
   "main": "index.json",
   "devDependencies": {
