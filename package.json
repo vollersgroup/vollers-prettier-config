@@ -1,13 +1,10 @@
 {
   "name": "@vollersgroup/vollers-prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "license": "UNLICENSED",
   "repository": "https://github.com/vollersgroup/vollers-prettier-config",
   "description": "Shared prettier config for all apps.",
-  "main": "index.json",
-  "devDependencies": {
-    "prettier": "^2.6.2"
-  },
+  "main": "prettier.json",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
