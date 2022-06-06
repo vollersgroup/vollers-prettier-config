@@ -6,7 +6,7 @@
   "description": "Shared prettier config for all apps.",
   "main": "index.json",
   "devDependencies": {
-    "prettier": "^2.1.2"
+    "prettier": "^2.6.2"
   },
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
